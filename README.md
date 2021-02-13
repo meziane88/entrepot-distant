@@ -1,1 +1,2 @@
-Initialisation du README
+Initialisation du READM
+Ajout informations
